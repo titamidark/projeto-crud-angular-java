@@ -30,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # projeto-crud-angular-java
 Projeto com Angular x Java Spring - CRUD
 >>>>>>> 0e6eb4aa48ffb2c7a65930916bfb1e36c56de434
+
+# Atualização do Angular Material
+Finalizei a aula 02
